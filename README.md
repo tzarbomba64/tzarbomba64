@@ -12,3 +12,6 @@ I also manage 2 teams, we got PEM [Project Emerald Mountain](https://project-eme
 
 ![rednaZLogo](https://github.com/user-attachments/assets/98004f62-bb3c-4e54-98b5-5eccdeba4ba9)
 PEM and rednaZ logos.
+
+These are some rednaZ files, get them [here](https://www.mediafire.com/folder/m23c8n5qhgou6/PEM.dev)
+These are PEM files, get them [here](https://www.mediafire.com/folder/m23c8n5qhgou6/PEM.dev), I know it's the same, I couldn't care less.
